@@ -1,8 +1,14 @@
-
 {
     "win32-x64-prod": {
-        "update": "https://github.com/osiris-automation/build/releases/download/win-v1.0.0",
-        "install": "https://github.com/osiris-automation/build/releases/download/win-v1.0.0/Automation.Setup.1.0.0.exe",
-        "version": "1.0.0"
+        "update": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v1.0.0",
+        "install": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v1.0.0/Automation.Setup.1.0.0.exe",
+        "version": "1.0.1"
+    },
+
+    "darwin-x64-prod": {
+        "readme": "Second Release",
+        "update": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v1.0.0/release.json",
+        "install": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v1.0.0/Automation.Setup-1.0.0.dmg",
+        "version": "0.0.2"
     }
 }
