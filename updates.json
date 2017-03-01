@@ -1,12 +1,12 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/osiris-automation/build/releases/download/v1.0.4",
-    "install": "https://github.com/osiris-automation/build/releases/download/v1.0.4/Automation-Setup-1.0.4.exe",
-    "version": "1.0.4"
+    "update": "https://github.com/osiris-automation/build/releases/download/v1.0.5",
+    "install": "https://github.com/osiris-automation/build/releases/download/v1.0.5/Automation-Setup-1.0.5.exe",
+    "version": "1.0.5"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/osiris-automation/build/releases/download/v1.0.4/latest-mac.json",
-    "install": "https://github.com/osiris-automation/build/releases/download/v1.0.4/Automation-1.0.4.dmg",
-    "version": "1.0.4"
+    "update": "https://github.com/osiris-automation/build/releases/download/v1.0.5/latest-mac.json",
+    "install": "https://github.com/osiris-automation/build/releases/download/v1.0.5/Automation-1.0.5.dmg",
+    "version": "1.0.5"
   }
 }
