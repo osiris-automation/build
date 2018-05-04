@@ -5,8 +5,8 @@
     "version": "2.6.1"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v2.6.1/release.json",
-    "install": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v2.6.1/Osiris-2.6.1.dmg",
-    "version": "2.6.1"
+    "update": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v3.0.0/release.json",
+    "install": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v3.0.0/Osiris-3.0.0.dmg",
+    "version": "3.0.0"
   }
 }
