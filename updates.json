@@ -1,12 +1,12 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v3.0.1",
-    "install": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v3.0.1/Osiris.Setup.3.0.1.exe",
-    "version": "3.0.1"
+    "update": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v4.0.0",
+    "install": "https://github.com/osiris-automation/build/releases/download/win32-x64-prod-v4.0.0/Osiris.Setup.4.0.0.exe",
+    "version": "4.0.0"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v4.0.0/release.json",
-    "install": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v4.0.0/Osiris-4.0.0.dmg",
-    "version": "4.0.0"
+    "update": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v3.0.0/release.json",
+    "install": "https://github.com/osiris-automation/build/releases/download/darwin-x64-prod-v3.0.0/Osiris-3.0.0.dmg",
+    "version": "3.0.0"
   }
 }
